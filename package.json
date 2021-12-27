@@ -1,0 +1,22 @@
+{
+  "name": "test_telegram_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc && node main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "expr-eval": "^2.0.2",
+    "mathjs": "^10.0.1",
+    "source-map-support": "^0.5.21",
+    "telegraf": "^4.5.2",
+    "typescript": "^4.5.4"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.5"
+  }
+}
